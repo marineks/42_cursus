@@ -1,3 +1,6 @@
 [submodule "42_libft"]
 	path = 42_libft
 	url = https://github.com/marineks/42_libft.git
+[submodule "42_get_next_line"]
+	path = 42_get_next_line
+	url = https://github.com/marineks/42_get_next_line.git
