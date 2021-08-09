@@ -7,3 +7,6 @@
 [submodule "42_Born2beRoot"]
 	path = 42_Born2beRoot
 	url = https://github.com/marineks/42_Born2beRoot.git
+[submodule "42_printf"]
+	path = 42_printf
+	url = https://github.com/marineks/42_printf.git
